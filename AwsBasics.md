@@ -48,4 +48,5 @@ Select instance type
 
 
 
-![AWS Architecture](images/aws-image.png)
+![AWS Architecture](/root/aws-direct-connect.png)
+
