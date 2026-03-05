@@ -39,14 +39,14 @@ One or more isolated data centers inside a region.
 Virtual server in the cloud.
 
 Example:
-```bash
+
 Launch EC2 instance
 Choose AMI
 Select instance type
 
 
+![images](https://docs.aws.amazon.com/images/whitepapers/latest/aws-vpc-connectivity-options/images/aws-direct-connect.png)
 
 
-
-![AWS Architecture](/root/aws-direct-connect.png)
+![Screenshot 2023-02-07 at 7 18 10 PM](https://user-images.githubusercontent.com/43399466/217262726-7cabcb5b-074d-45cc-950e-84f7119e7162.png)
 
